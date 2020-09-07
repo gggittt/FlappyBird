@@ -1,2 +1,2 @@
 # FlappyBird
-FlappyBird game for mobile devices
+FlappyBird prototype game for mobile devices
